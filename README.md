@@ -1,3 +1,4 @@
-Mockup de Sistema de gestión de inventarios
+# Mockup de Sistema de gestión de inventarios
 
-Diseño prototipo
+>[!NOTE]
+>Diseño prototipo
